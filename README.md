@@ -2,4 +2,4 @@
 
 ---
 
-1. Hello Bash Scripting: helloBashScripting
+1. Hello Bash Scripting: initialBashScripting.sh
