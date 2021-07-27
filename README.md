@@ -4,7 +4,7 @@
 | Item | Description | Filename |
 |---|---|---|
 |1|**Hello Bash Scripting**|initialBashScripting.sh|
-|2|**If**|   |
-|3|**While**|   |
-|4|**Until**|   |
+|2|**If**|ifScript.sh|
+|3|**While**|whileLoopScript.sh|
+|4|**Until**|untilScript.sh|
 |5|**For**|forScript.sh|
