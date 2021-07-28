@@ -9,3 +9,4 @@
 |4|**Until**|untilScript.sh||
 |5|**For**|forScript.sh||
 |6|**For**|forScript2.sh|{start..ending..increment}|
+|7|**For**|forScript3.sh|(( i=0; i<5; i++ ))|
