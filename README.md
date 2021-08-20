@@ -7,6 +7,8 @@
 |2|**Echo Output**|echoOutput.sh|echo "..." > ./file.txt|
 |3|**Echo Output Append**|echoOutputAppend.sh|echo "..." >> ./file.txt|
 |4|**Variable**|variable.sh||
+|5|**VAR_PATH**|var_path.sh||
+
 |5|**If**|ifScript.sh||
 |6|**While**|whileLoopScript.sh||
 |7|**Until**|untilScript.sh||
