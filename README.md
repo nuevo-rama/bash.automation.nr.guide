@@ -9,6 +9,7 @@
 |4|**Variable**|variable.sh||
 |5|**VAR_PATH**|var_path.sh|HOME Variable|
 |6|**User Variable**|varUser.sh|USER Variable|
+|7|**Change File Permission**|changePermission.sh|chmod +x|
 ||**If**|ifScript.sh||
 ||**While**|whileLoopScript.sh||
 ||**Until**|untilScript.sh||
