@@ -11,6 +11,7 @@
 |6|**User Variable**|varUser.sh|USER Variable|
 |7|**Change File Permission**|changePermission.sh|chmod +x|
 |8|**Basic Operations**|basicOperations.sh|+ - \* /|
+|9|**Increment - Descrement a variable**|incDecVar.sh|VAR=$((VAR+=1)) VAR=$((VAR-=1))|
 ||**If**|ifScript.sh||
 ||**While**|whileLoopScript.sh||
 ||**Until**|untilScript.sh||
