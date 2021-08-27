@@ -4,7 +4,7 @@
 | Item | Description | Filename ||
 |---|---|---|---|
 |1|**Hello Bash Scripting**|initialBashScripting.sh||
-|2|**Echo Output**|echoOutput.sh|echo "..." > ./file.txt|
+|2|**Echo Output Overwrite**|echoOutput.sh|echo "..." > ./file.txt|
 |3|**Echo Output Append**|echoOutputAppend.sh|echo "..." >> ./file.txt|
 |4|**Variable**|variable.sh||
 |5|**VAR_PATH**|var_path.sh|HOME Variable|
