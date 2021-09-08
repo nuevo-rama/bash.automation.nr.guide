@@ -1,4 +1,4 @@
-#! bin/bash
+#! /bin/bash
 
 # Este script al ejecutarse evaluará el input ingresado
 
