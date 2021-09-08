@@ -8,13 +8,13 @@
 |3|**Echo Output Append**|[echoOutputAppend.sh](echoOutputAppend.sh)|echo "..." >> ./file.txt|
 |4|**Variable**|[variable.sh](variable.sh)||
 |5|**VAR_PATH**|[var_path.sh](var_path.sh)|HOME Variable|
-|6|**User Variable**|[varUser.sh|USER Variable](varUser.sh|USER Variable)|
+|6|**User Variable**|[varUser.sh](varUser.sh)|USER Variable|
 |7|**Change File Permission**|[changePermission.sh](changePermission.sh)|chmod +x|
-|8|**Basic Operations**|basicOperations.sh|+ - \* /|
-|9|**Increment - Descrease a variable**|incDecVar.sh|VAR=$((VAR+=1)) VAR=$((VAR-=1))|
-||**If**|ifScript.sh||
-||**While**|whileLoopScript.sh||
-||**Until**|untilScript.sh||
-||**For**|forScript.sh||
-||**For**|forScript2.sh|{start..ending..increment}|
-||**For**|forScript3.sh|(( i=0; i<5; i++ ))|
+|8|**Basic Operations**|[basicOperations.sh](basicOperations.sh)|+ - \* /|
+|9|**Increment - Descrease a variable**|[incDecVar.sh](incDecVar.sh)|VAR=$((VAR+=1)) VAR=$((VAR-=1))|
+||**If**|[ifScript.sh](ifScript.sh)||
+||**While**|[whileLoopScript.sh](whileLoopScript.sh)||
+||**Until**|[untilScript.sh](untilScript.sh)||
+||**For**|[forScript.sh](forScript.sh)||
+||**For**|[forScript2.sh](forScript2.sh)|{start..ending..increment}|
+||**For**|[forScript3.sh](forScript3.sh)|(( i=0; i<5; i++ ))|
