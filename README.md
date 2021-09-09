@@ -13,7 +13,7 @@
 |8|**Change File Permission**|[changePermission.sh](changePermission.sh)|chmod +x|
 |9|**Basic Operations**|[basicOperations.sh](basicOperations.sh)|+ - \* /|
 |10|**Increment - Descrease a variable**|[incDecVar.sh](incDecVar.sh)|VAR=$((VAR+=1)) VAR=$((VAR-=1))|
-|11|**If**|[ifScript.sh](ifScript.sh)|if ()|
+|11|**If**|[ifScript.sh](ifScript.sh)|if (())|
 |12|**If**|[ifScriptAnd.sh](ifScriptAnd.sh)|if [] && []|
 ||**While**|[whileLoopScript.sh](whileLoopScript.sh)||
 ||**Until**|[untilScript.sh](untilScript.sh)||
